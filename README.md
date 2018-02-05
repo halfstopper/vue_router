@@ -1,6 +1,6 @@
 # router-app
 
-> A Vue.js project
+> A Vue.js project which I am learning
 
 ## Build Setup
 
